@@ -1,0 +1,57 @@
+body {
+font-size: xx-large;
+background-color: aqua;
+padding-top: 550px;
+text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 300;
+}
+.menu {
+ list-style: none;
+position: fixed;
+top: 10px;
+right:30px;
+z-index:10;
+cursor:pointer;
+
+}
+
+.links {
+
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+p {
+font-size: 20px;
+font-weight: 900;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: crimson;
+}
+ul {
+ background-color: ghostwhite;
+ font-size: xx-large;
+}
+span {
+font-size: 100px;
+
+}
+
+.links:hover {
+font-size: 25px;
+text-decoration: underline;
+}
+#writings a { text-decoration: underline !important;
+color:greenyellow !important;
+
+
+}
+
